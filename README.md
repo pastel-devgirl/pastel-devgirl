@@ -9,7 +9,7 @@ sharing cute mini projects and soft creations 💻💖
 ---
 
 ### 🧁 About Me
-- 🎂 I once made a birthday cake website as a gift
+- 🎂 I once made a birthday website as a gift
 - 🌸 I love building soft websites in HTML, CSS, and now Bubble
 - 💻 My VS Code theme is literally pink + blue
 
