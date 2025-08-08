@@ -29,7 +29,7 @@ also learning Git, GitHub, and soft-launching mini projects 🧁
 ---
 
 ### 💖 Find Me Elsewhere
-📸 TikTok: [@princess.codes](https://tiktok.com/@princess.codes)  
+📸 TikTok: https://www.tiktok.com/@pastel.devgirl?is_from_webapp=1&sender_device=pc
 📌 GitHub Projects: in progress! stay tuned 💕
 
 ---
